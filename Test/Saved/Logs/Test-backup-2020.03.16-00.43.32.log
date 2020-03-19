@@ -1,0 +1,1017 @@
+﻿Log file open, 03/16/20 09:38:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Test
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.631105
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.16-00.38.06:959][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.16-00.38.06:959][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.16-00.38.06:959][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Engine.ini]
+[2020.03.16-00.38.06:959][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.16-00.38.06:959][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Engine.ini]
+[2020.03.16-00.38.06:959][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Engine.ini]
+[2020.03.16-00.38.06:959][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.16-00.38.06:959][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.16-00.38.06:959][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.16-00.38.06:959][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.16-00.38.06:959][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.16-00.38.06:959][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.16-00.38.06:959][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.16-00.38.06:959][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.16-00.38.06:959][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.16-00.38.06:959][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.16-00.38.06:959][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.16-00.38.06:959][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.16-00.38.06:960][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.16-00.38.06:960][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.16-00.38.06:960][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Engine.ini]
+[2020.03.16-00.38.06:960][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.16-00.38.06:960][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.16-00.38.06:960][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.16-00.38.06:960][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.16-00.38.06:960][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.16-00.38.06:960][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.16-00.38.06:960][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.16-00.38.06:960][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.16-00.38.06:960][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.16-00.38.06:960][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.16-00.38.06:960][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.16-00.38.06:960][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.16-00.38.06:960][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.16-00.38.06:960][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Engine.ini]
+[2020.03.16-00.38.06:960][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Engine.ini]
+[2020.03.16-00.38.06:964][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.16-00.38.06:964][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.16-00.38.06:965][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.16-00.38.06:965][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.16-00.38.06:965][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.16-00.38.06:973][  0]LogHAL: Display: Platform has ~ 8 GB [8530399232 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.16-00.38.06:973][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.16-00.38.06:973][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.03.16-00.38.06:973][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Scalability.ini]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.16-00.38.06:974][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.16-00.38.06:977][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.16-00.38.06:977][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.16-00.38.06:977][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/KIRA/Desktop/Test/Saved/Config/Windows/Engine.ini]
+[2020.03.16-00.38.06:979][  0]LogInit: Computer: DESKTOP-2J73LJH
+[2020.03.16-00.38.06:979][  0]LogInit: User: KIRA
+[2020.03.16-00.38.06:979][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.16-00.38.06:979][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.16-00.38.06:980][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.03.16-00.38.06:980][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.16-00.38.06:980][  0]LogMemory: Process Physical Memory: 105.68 MB used, 105.68 MB peak
+[2020.03.16-00.38.06:980][  0]LogMemory: Process Virtual Memory: 100.41 MB used, 100.41 MB peak
+[2020.03.16-00.38.06:980][  0]LogMemory: Physical Memory: 3074.46 MB used,  5060.76 MB free, 8135.22 MB total
+[2020.03.16-00.38.06:980][  0]LogMemory: Virtual Memory: 5137.70 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.03.16-00.38.06:991][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.16-00.38.07:134][  0]LogInit: Overriding language with editor language configuration option (ja).
+[2020.03.16-00.38.07:134][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.03.16-00.38.07:134][  0]LogInit: Using OS detected locale (ja-JP).
+[2020.03.16-00.38.07:263][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.16-00.38.07:355][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.16-00.38.07:355][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.16-00.38.08:569][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.16-00.38.08:569][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.16-00.38.08:569][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.16-00.38.08:569][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.16-00.38.08:629][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.03.16-00.38.08:629][  0]LogD3D11RHI:       6052/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.16-00.38.08:632][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.16-00.38.08:632][  0]LogD3D11RHI:       0/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.16-00.38.08:632][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.16-00.38.08:639][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.16-00.38.08:639][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.16-00.38.08:639][  0]LogWindows: EnumDisplayDevices:
+[2020.03.16-00.38.08:640][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.03.16-00.38.08:640][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.03.16-00.38.08:640][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.03.16-00.38.08:640][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.03.16-00.38.08:640][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.16-00.38.08:640][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.03.16-00.38.08:641][  0]LogD3D11RHI:   Driver Version: 442.59 (internal:26.21.14.4259, unified:442.59)
+[2020.03.16-00.38.08:641][  0]LogD3D11RHI:      Driver Date: 3-4-2020
+[2020.03.16-00.38.08:641][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.03.16-00.38.08:679][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.16-00.38.08:680][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.16-00.38.08:717][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.16-00.38.09:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.16-00.38.09:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.16-00.38.09:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.16-00.38.09:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.16-00.38.09:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.16-00.38.09:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.16-00.38.09:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.16-00.38.09:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.16-00.38.09:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.16-00.38.09:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.16-00.38.09:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.16-00.38.09:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.16-00.38.09:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.16-00.38.09:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.16-00.38.09:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.16-00.38.09:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.16-00.38.09:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.16-00.38.09:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.16-00.38.09:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.16-00.38.09:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.16-00.38.09:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.16-00.38.09:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.16-00.38.09:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.16-00.38.09:177][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.16-00.38.09:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.16-00.38.09:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.16-00.38.09:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.16-00.38.09:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.16-00.38.09:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.16-00.38.09:245][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.16-00.38.09:245][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.16-00.38.09:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.16-00.38.09:260][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.16-00.38.09:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.16-00.38.09:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.16-00.38.09:275][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.16-00.38.09:286][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.16-00.38.09:400][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (../../../../../../Users/KIRA/Desktop/Test/Intermediate/Shaders/WorkingDirectory/6820/).
+[2020.03.16-00.38.09:400][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/KIRA/AppData/Local/Temp/UnrealShaderWorkingDir/790DA1FB4F2874B49599519B579AD9FC/'.
+[2020.03.16-00.38.09:401][  0]LogXGEController: Cleaning working directory: C:/Users/KIRA/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.16-00.38.09:401][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.16-00.38.09:401][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.16-00.38.09:401][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.16-00.38.11:443][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.16-00.38.11:656][  0]LogDerivedDataCache: Loaded boot cache 0.21s 78MB C:/Users/KIRA/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.16-00.38.11:656][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/KIRA/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.16-00.38.11:656][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/KIRA/Desktop/Test/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.16-00.38.11:656][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.16-00.38.11:656][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/KIRA/Desktop/Test/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.16-00.38.11:656][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.16-00.38.11:671][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.16-00.38.11:671][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.16-00.38.11:671][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.16-00.38.11:675][  0]LogDerivedDataCache: Using Local data cache path C:/Users/KIRA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.16-00.38.11:675][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.16-00.38.11:675][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.16-00.38.11:699][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.16-00.38.11:709][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.16-00.38.11:717][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.16-00.38.12:189][  0]LogAssetRegistry: FAssetRegistry took 0.0052 seconds to start up
+[2020.03.16-00.38.12:572][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.16-00.38.12:870][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.16-00.38.12:870][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.16-00.38.12:870][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.16-00.38.12:870][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.16-00.38.12:870][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.16-00.38.12:908][  0]LogNetVersion: Test 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1935633877)
+[2020.03.16-00.38.18:307][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.058418 seconds
+[2020.03.16-00.38.18:314][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.03.16-00.38.18:314][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.03.16-00.38.18:314][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.16-00.38.19:264][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.16-00.38.19:272][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.16-00.38.19:402][  0]SourceControl: ソースコントロールは無効です
+[2020.03.16-00.38.19:402][  0]SourceControl: ソースコントロールは無効です
+[2020.03.16-00.38.19:425][  0]SourceControl: ソースコントロールは無効です
+[2020.03.16-00.38.19:438][  0]SourceControl: ソースコントロールは無効です
+[2020.03.16-00.38.19:447][  0]SourceControl: ソースコントロールは無効です
+[2020.03.16-00.38.19:826][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.16-00.38.19:848][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.16-00.38.19:848][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.16-00.38.19:985][  0]LogOcInput: OculusInput pre-init called
+[2020.03.16-00.38.20:000][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.16-00.38.20:000][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.16-00.38.20:125][  0]LogEngine: Initializing Engine...
+[2020.03.16-00.38.20:126][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.16-00.38.20:130][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2020.03.16-00.38.20:498][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.16-00.38.20:529][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.16-00.38.20:540][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.16-00.38.20:540][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.16-00.38.20:540][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.16-00.38.20:540][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.16-00.38.20:540][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.16-00.38.20:540][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.16-00.38.20:540][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.16-00.38.20:540][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.16-00.38.20:541][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.16-00.38.20:541][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.16-00.38.20:569][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.16-00.38.20:569][  0]LogAudioMixer: Display: Name: スピーカー (Realtek High Definition Audio)
+[2020.03.16-00.38.20:569][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.16-00.38.20:569][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.16-00.38.20:569][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.16-00.38.20:569][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.16-00.38.20:569][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.16-00.38.20:569][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.16-00.38.20:569][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.16-00.38.20:612][  0]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek High Definition Audio)
+[2020.03.16-00.38.20:617][  0]LogInit: FAudioDevice initialized.
+[2020.03.16-00.38.20:617][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.16-00.38.20:680][  0]LogDerivedDataCache: Saved boot cache 0.06s 78MB C:/Users/KIRA/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.16-00.38.20:681][  0]LogInit: Texture streaming: Enabled
+[2020.03.16-00.38.20:714][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.16-00.38.20:714][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.16-00.38.20:716][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.16-00.38.20:935][  0]LogInit: Transaction tracking system initialized
+[2020.03.16-00.38.20:983][  0]BlueprintLog: New page: エディタの読み込み
+[2020.03.16-00.38.21:150][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2020.03.16-00.38.22:579][  0]LogFileCache: Scanning file cache for directory 'C:/Users/KIRA/Desktop/Test/Content/' took 0.01s
+[2020.03.16-00.38.22:579][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.16-00.38.22:579][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.16-00.38.23:730][  0]SourceControl: ソースコントロールは無効です
+[2020.03.16-00.38.23:734][  0]Cmd: MAP LOAD FILE="../../../../../../Users/KIRA/Desktop/Test/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.16-00.38.23:735][  0]LightingResults: New page: ライティングのビルド
+[2020.03.16-00.38.23:746][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.16-00.38.23:751][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.16-00.38.23:752][  0]MapCheck: New page: マップをチェック
+[2020.03.16-00.38.23:752][  0]LightingResults: New page: <何も選択されていません>
+[2020.03.16-00.38.23:780][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.03.16-00.38.24:260][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.16-00.38.24:745][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.16-00.38.24:772][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.03.16-00.38.24:772][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.16-00.38.24:773][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.328ミリ秒かかりました。
+[2020.03.16-00.38.24:773][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.039
+[2020.03.16-00.38.24:971][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-00.38.24:978][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-00.38.24:984][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-00.38.24:989][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.16-00.38.25:011][  0]LogCollectionManager: Loaded 0 collections in 0.001906 seconds
+[2020.03.16-00.38.25:041][  0]LogFileCache: Scanning file cache for directory 'C:/Users/KIRA/Desktop/Test/Saved/Collections/' took 0.00s
+[2020.03.16-00.38.25:041][  0]LogFileCache: Scanning file cache for directory 'C:/Users/KIRA/Desktop/Test/Content/Developers/KIRA/Collections/' took 0.00s
+[2020.03.16-00.38.25:041][  0]LogFileCache: Scanning file cache for directory 'C:/Users/KIRA/Desktop/Test/Content/Collections/' took 0.00s
+[2020.03.16-00.38.25:041][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 3015 classes and 717 folders.
+[2020.03.16-00.38.25:049][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.16-00.38.25:363][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.16-00.38.25:379][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.03.16-00.38.25:401][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.03.16-00.38.25:604][  0]LogSlate: Took 0.002513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.16-00.38.25:610][  0]LogSlate: Took 0.003786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2020.03.16-00.38.25:614][  0]LogSlate: Took 0.003848 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2020.03.16-00.38.25:616][  0]LogSlate: Took 0.002176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.16-00.38.25:622][  0]LogSlate: Took 0.002236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.16-00.38.25:718][  0]LogRenderer: Reallocating scene render targets to support 1200x612 Format 9 NumSamples 1 (Frame:1).
+[2020.03.16-00.38.25:817][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.16-00.38.25:817][  0]LogLoad: (Engine Initialization) Total time: 22.52 seconds
+[2020.03.16-00.38.25:817][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.16-00.38.25:884][  0]LogContentStreaming: Texture pool size now 600 MB
+[2020.03.16-00.38.25:918][  0]LogSlate: Took 0.002214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.16-00.38.26:089][  4]LogAssetRegistry: Asset discovery search completed in 13.9011 seconds
+[2020.03.16-00.38.26:092][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000011 seconds (updated 0 objects)
+[2020.03.16-00.40.12:204][292]LogSlate: Window 'プロジェクト設定' being destroyed
+[2020.03.16-00.40.12:208][292]LogSlate: Window 'プロジェクト設定' being destroyed
+[2020.03.16-00.42.28:188][923]UATHelper: クック (Windows): Running AutomationTool...
+[2020.03.16-00.42.28:283][931]UATHelper: クック (Windows): Parsing command line: -ScriptsForProject=C:/Users/KIRA/Desktop/Test/Test.uproject BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project=C:/Users/KIRA/Desktop/Test/Test.uproject -cook -skipstage -ue4exe="C:\Program Files\Epic Games\UE_4.24\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -targetplatform=Win64 -utf8output
+[2020.03.16-00.42.28:704][974]UATHelper: クック (Windows): Setting up ProjectParams for C:\Users\KIRA\Desktop\Test\Test.uproject
+[2020.03.16-00.42.29:101][ 18]UATHelper: クック (Windows): ********** COOK COMMAND STARTED **********
+[2020.03.16-00.42.29:110][ 19]UATHelper: クック (Windows): Running UE4Editor Cook for project C:\Users\KIRA\Desktop\Test\Test.uproject
+[2020.03.16-00.42.29:110][ 19]UATHelper: クック (Windows): Commandlet log file is C:\Program Files\Epic Games\UE_4.24\Engine\Programs\AutomationTool\Saved\Cook-2020.03.16-09.42.29.txt
+[2020.03.16-00.42.29:110][ 19]UATHelper: クック (Windows): Running: C:\Program Files\Epic Games\UE_4.24\Engine\Binaries\Win64\UE4Editor-Cmd.exe C:\Users\KIRA\Desktop\Test\Test.uproject -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="C:\Program Files\Epic Games\UE_4.24\Engine\Programs\AutomationTool\Saved\Cook-2020.03.16-09.42.29.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2020.03.16-00.42.29:260][ 37]UATHelper: クック (Windows):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2020.03.16-00.42.29:260][ 37]UATHelper: クック (Windows):   LogInit: Display: Running engine for game: Test
+[2020.03.16-00.42.30:249][156]UATHelper: クック (Windows):   LogHAL: Display: Platform has ~ 8 GB [8530399232 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.16-00.42.30:776][219]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.16-00.42.30:800][222]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.16-00.42.30:800][222]UATHelper: TC1a'
+[2020.03.16-00.42.30:800][222]UATHelper: ETC2'
+[2020.03.16-00.42.30:800][222]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.16-00.42.30:800][222]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.16-00.42.30:800][222]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.16-00.42.30:800][222]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.16-00.42.30:800][222]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.16-00.42.30:800][222]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.16-00.42.30:800][222]UATHelper: nt'
+[2020.03.16-00.42.30:800][222]UATHelper: nt' (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'  
+�w
+[2020.03.16-00.42.30:808][223]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.16-00.42.30:808][223]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.16-00.42.30:808][223]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.16-00.42.30:808][223]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.16-00.42.30:808][223]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.16-00.42.30:808][223]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.16-00.42.30:808][223]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.16-00.42.30:826][225]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.16-00.42.30:826][225]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.16-00.42.30:833][226]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.16-00.42.30:844][227]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.16-00.42.30:844][227]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.16-00.42.30:850][228]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.16-00.42.30:858][229]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.16-00.42.30:868][230]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.16-00.42.30:892][233]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.16-00.42.30:892][233]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.16-00.42.30:908][235]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.16-00.42.30:908][235]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.16-00.42.30:917][236]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.16-00.42.30:926][237]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.16-00.42.30:926][237]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.16-00.42.30:934][238]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.16-00.42.30:934][238]UATHelper: クック (Windows):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2020.03.16-00.42.30:934][238]UATHelper: クック (Windows):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.16-00.42.30:960][241]UATHelper: クック (Windows):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.16-00.42.31:452][295]UATHelper: クック (Windows):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.16-00.42.31:503][301]UATHelper: クック (Windows):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/KIRA/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.16-00.42.31:519][303]UATHelper: クック (Windows):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.16-00.42.31:801][331]LogSlate: Took 0.004268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2020.03.16-00.42.31:805][331]LogSlate: Took 0.004059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2020.03.16-00.42.31:809][331]LogSlate: Took 0.003943 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2020.03.16-00.42.31:821][331]LogSlate: Took 0.012249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.03.16-00.42.32:443][398]UATHelper: クック (Windows):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.16-00.42.32:443][398]UATHelper: クック (Windows):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.16-00.42.33:590][418]UATHelper: クック (Windows):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.16-00.42.33:590][418]UATHelper: クック (Windows):   LogCook: Display: Mobile HDR setting 1
+[2020.03.16-00.42.33:590][418]UATHelper: クック (Windows):   LogCook: Display: Creating asset registry
+[2020.03.16-00.42.36:590][427]UATHelper: クック (Windows):   LogCook: Display: Discovering localized assets
+[2020.03.16-00.42.36:590][427]UATHelper: クック (Windows):   LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2020.03.16-00.42.36:590][427]UATHelper: クック (Windows):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2020.03.16-00.42.36:590][427]UATHelper: クック (Windows):   LogCook: Display: Sandbox cleanup took 0.031 seconds for platforms WindowsNoEditor  iterative false
+[2020.03.16-00.42.37:591][430]UATHelper: クック (Windows):   CookResults: Warning: Unable to find package for cooking /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode
+[2020.03.16-00.42.37:591][430]UATHelper: クック (Windows):   LogCook: Warning: Unable to find package for cooking /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode
+[2020.03.16-00.42.37:591][430]UATHelper: クック (Windows):   LogCook: Display: Cooked packages 0 Packages Remain 459 Total 459
+[2020.03.16-00.42.37:926][431]UATHelper: クック (Windows):   LogCook: Display: Cooked packages 50 Packages Remain 458 Total 508
+[2020.03.16-00.42.37:926][431]UATHelper: クック (Windows):   LogCook: Display: Cooked packages 100 Packages Remain 457 Total 557
+[2020.03.16-00.42.38:257][432]UATHelper: クック (Windows):   LogCook: Display: Cooked packages 150 Packages Remain 456 Total 606
+[2020.03.16-00.42.38:257][432]UATHelper: クック (Windows):   LogCook: Display: Cooked packages 153 Packages Remain 455 Total 608
+[2020.03.16-00.42.38:257][432]UATHelper: クック (Windows):   LogCook: Display: Cooked packages 153 Packages Remain 307 Total 460
+[2020.03.16-00.42.38:257][432]UATHelper: クック (Windows):   LogCook: Display: Cooked packages 165 Packages Remain 306 Total 471
+[2020.03.16-00.42.38:257][432]UATHelper: クック (Windows):   LogCook: Display: Cooked packages 167 Packages Remain 305 Total 472
+[2020.03.16-00.42.38:590][433]UATHelper: クック (Windows):   LogCook: Display: Cooked packages 172 Packages Remain 304 Total 476
+[2020.03.16-00.42.38:590][433]UATHelper: クック (Windows):   LogCook: Display: Cooked packages 185 Packages Remain 307 Total 492
+[2020.03.16-00.42.40:257][438]UATHelper: クック (Windows):   LogCook: Display: Cooked packages 235 Packages Remain 309 Total 544
+[2020.03.16-00.42.40:927][440]UATHelper: クック (Windows):   LogCook: Display: Cooked packages 285 Packages Remain 312 Total 597
+[2020.03.16-00.42.41:589][442]UATHelper: クック (Windows):   LogCook: Display: Cooked packages 335 Packages Remain 312 Total 647
+[2020.03.16-00.43.01:791][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.03.16-00.43.07:234][767]UATHelper: パッケージ化 (Windows (64-bit)): Running AutomationTool...
+[2020.03.16-00.43.07:320][773]UATHelper: パッケージ化 (Windows (64-bit)): Parsing command line: -ScriptsForProject=C:/Users/KIRA/Desktop/Test/Test.uproject BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project=C:/Users/KIRA/Desktop/Test/Test.uproject -cook -stage -archive -archivedirectory=C:/Users/KIRA/Desktop -package -ue4exe="C:\Program Files\Epic Games\UE_4.24\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -pak -prereqs -nodebuginfo -targetplatform=Win64 -clientconfig=Development -utf8output
+[2020.03.16-00.43.07:579][804]UATHelper: パッケージ化 (Windows (64-bit)): Setting up ProjectParams for C:\Users\KIRA\Desktop\Test\Test.uproject
+[2020.03.16-00.43.07:952][848]UATHelper: パッケージ化 (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2020.03.16-00.43.07:952][848]UATHelper: パッケージ化 (Windows (64-bit)): Running UE4Editor Cook for project C:\Users\KIRA\Desktop\Test\Test.uproject
+[2020.03.16-00.43.07:952][848]UATHelper: パッケージ化 (Windows (64-bit)): Commandlet log file is C:\Program Files\Epic Games\UE_4.24\Engine\Programs\AutomationTool\Saved\Cook-2020.03.16-09.43.07.txt
+[2020.03.16-00.43.07:952][848]UATHelper: パッケージ化 (Windows (64-bit)): Running: C:\Program Files\Epic Games\UE_4.24\Engine\Binaries\Win64\UE4Editor-Cmd.exe C:\Users\KIRA\Desktop\Test\Test.uproject -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="C:\Program Files\Epic Games\UE_4.24\Engine\Programs\AutomationTool\Saved\Cook-2020.03.16-09.43.07.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2020.03.16-00.43.08:083][864]UATHelper: パッケージ化 (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2020.03.16-00.43.08:083][864]UATHelper: パッケージ化 (Windows (64-bit)):   LogInit: Display: Running engine for game: Test
+[2020.03.16-00.43.08:982][972]UATHelper: パッケージ化 (Windows (64-bit)):   LogHAL: Display: Platform has ~ 8 GB [8530399232 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.16-00.43.09:484][ 32]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.16-00.43.09:509][ 35]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.16-00.43.09:509][ 35]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.16-00.43.09:509][ 35]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.16-00.43.09:509][ 35]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.16-00.43.09:509][ 35]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.16-00.43.09:509][ 35]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.16-00.43.09:509][ 35]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.16-00.43.09:509][ 35]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.16-00.43.09:509][ 35]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.16-00.43.09:509][ 35]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.16-00.43.09:509][ 35]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.16-00.43.09:509][ 35]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.16-00.43.09:509][ 35]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.16-00.43.09:509][ 35]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.16-00.43.09:509][ 35]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.16-00.43.09:509][ 35]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.16-00.43.09:509][ 35]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.16-00.43.09:509][ 35]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.16-00.43.09:533][ 38]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.16-00.43.09:533][ 38]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.16-00.43.09:541][ 39]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.16-00.43.09:551][ 40]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.16-00.43.09:560][ 41]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.16-00.43.09:560][ 41]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.16-00.43.09:567][ 42]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.16-00.43.09:583][ 44]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.16-00.43.09:609][ 47]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.16-00.43.09:609][ 47]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.16-00.43.09:625][ 49]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.16-00.43.09:625][ 49]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.16-00.43.09:635][ 50]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.16-00.43.09:636][ 50]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.16-00.43.09:640][ 51]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.16-00.43.09:651][ 52]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.16-00.43.09:652][ 52]UATHelper: パッケージ化 (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2020.03.16-00.43.09:652][ 52]UATHelper: パッケージ化 (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.16-00.43.09:674][ 55]UATHelper: パッケージ化 (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.16-00.43.10:208][119]UATHelper: パッケージ化 (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.16-00.43.10:258][125]UATHelper: パッケージ化 (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/KIRA/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.16-00.43.10:275][127]UATHelper: パッケージ化 (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.16-00.43.11:220][237]UATHelper: パッケージ化 (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.16-00.43.11:220][237]UATHelper: パッケージ化 (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.16-00.43.11:562][275]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.16-00.43.11:562][275]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2020.03.16-00.43.11:562][275]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2020.03.16-00.43.11:696][291]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Discovering localized assets
+[2020.03.16-00.43.11:706][292]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2020.03.16-00.43.11:855][310]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2020.03.16-00.43.11:895][315]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.192 seconds for platforms WindowsNoEditor  iterative false
+[2020.03.16-00.43.12:979][445]UATHelper: パッケージ化 (Windows (64-bit)):   CookResults: Warning: Unable to find package for cooking /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode
+[2020.03.16-00.43.12:979][445]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Warning: Unable to find package for cooking /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode
+[2020.03.16-00.43.12:979][445]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 459 Total 459
+[2020.03.16-00.43.13:245][477]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 50 Packages Remain 458 Total 508
+[2020.03.16-00.43.13:378][493]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 100 Packages Remain 457 Total 557
+[2020.03.16-00.43.13:805][544]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 150 Packages Remain 456 Total 606
+[2020.03.16-00.43.13:829][547]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 153 Packages Remain 455 Total 608
+[2020.03.16-00.43.13:830][547]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 153 Packages Remain 307 Total 460
+[2020.03.16-00.43.13:846][549]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 167 Packages Remain 306 Total 473
+[2020.03.16-00.43.13:870][552]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 172 Packages Remain 305 Total 477
+[2020.03.16-00.43.14:174][588]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 184 Packages Remain 309 Total 493
+[2020.03.16-00.43.15:281][718]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 234 Packages Remain 311 Total 545
+[2020.03.16-00.43.15:889][791]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 284 Packages Remain 314 Total 598
+[2020.03.16-00.43.16:474][861]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 334 Packages Remain 314 Total 648
+[2020.03.16-00.43.17:975][ 41]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 384 Packages Remain 313 Total 697
+[2020.03.16-00.43.18:315][ 82]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 415 Packages Remain 312 Total 727
+[2020.03.16-00.43.18:334][ 84]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 417 Packages Remain 311 Total 728
+[2020.03.16-00.43.18:334][ 84]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 418 Packages Remain 309 Total 727
+[2020.03.16-00.43.18:341][ 85]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 419 Packages Remain 308 Total 727
+[2020.03.16-00.43.18:349][ 86]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 420 Packages Remain 307 Total 727
+[2020.03.16-00.43.18:349][ 86]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 420 Packages Remain 282 Total 702
+[2020.03.16-00.43.18:357][ 87]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 420 Packages Remain 274 Total 694
+[2020.03.16-00.43.18:383][ 90]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 420 Packages Remain 251 Total 671
+[2020.03.16-00.43.18:383][ 90]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 420 Packages Remain 250 Total 670
+[2020.03.16-00.43.18:448][ 98]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 427 Packages Remain 226 Total 653
+[2020.03.16-00.43.18:473][101]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 431 Packages Remain 212 Total 643
+[2020.03.16-00.43.18:481][102]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 432 Packages Remain 211 Total 643
+[2020.03.16-00.43.18:481][102]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 433 Packages Remain 210 Total 643
+[2020.03.16-00.43.18:490][103]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 434 Packages Remain 209 Total 643
+[2020.03.16-00.43.18:490][103]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 435 Packages Remain 208 Total 643
+[2020.03.16-00.43.18:497][104]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 436 Packages Remain 207 Total 643
+[2020.03.16-00.43.18:497][104]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 437 Packages Remain 206 Total 643
+[2020.03.16-00.43.18:505][105]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 438 Packages Remain 205 Total 643
+[2020.03.16-00.43.18:515][106]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 439 Packages Remain 204 Total 643
+[2020.03.16-00.43.18:522][107]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 440 Packages Remain 201 Total 641
+[2020.03.16-00.43.18:530][108]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 441 Packages Remain 200 Total 641
+[2020.03.16-00.43.18:539][109]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 442 Packages Remain 199 Total 641
+[2020.03.16-00.43.18:539][109]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 443 Packages Remain 198 Total 641
+[2020.03.16-00.43.18:547][110]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 444 Packages Remain 197 Total 641
+[2020.03.16-00.43.18:556][111]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 445 Packages Remain 196 Total 641
+[2020.03.16-00.43.18:556][111]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 446 Packages Remain 194 Total 640
+[2020.03.16-00.43.18:573][113]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 447 Packages Remain 190 Total 637
+[2020.03.16-00.43.18:591][115]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 448 Packages Remain 189 Total 637
+[2020.03.16-00.43.18:598][116]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 449 Packages Remain 188 Total 637
+[2020.03.16-00.43.18:614][118]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 450 Packages Remain 187 Total 637
+[2020.03.16-00.43.18:624][119]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 451 Packages Remain 184 Total 635
+[2020.03.16-00.43.18:640][121]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 452 Packages Remain 182 Total 634
+[2020.03.16-00.43.18:640][121]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 453 Packages Remain 178 Total 631
+[2020.03.16-00.43.18:648][122]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 454 Packages Remain 177 Total 631
+[2020.03.16-00.43.18:656][123]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 455 Packages Remain 176 Total 631
+[2020.03.16-00.43.18:700][128]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 456 Packages Remain 173 Total 629
+[2020.03.16-00.43.18:715][130]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 457 Packages Remain 168 Total 625
+[2020.03.16-00.43.18:715][130]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 458 Packages Remain 167 Total 625
+[2020.03.16-00.43.18:723][131]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 459 Packages Remain 164 Total 623
+[2020.03.16-00.43.18:733][132]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 460 Packages Remain 160 Total 620
+[2020.03.16-00.43.18:748][134]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 461 Packages Remain 157 Total 618
+[2020.03.16-00.43.18:765][136]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 462 Packages Remain 155 Total 617
+[2020.03.16-00.43.18:774][137]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 463 Packages Remain 153 Total 616
+[2020.03.16-00.43.18:783][138]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 463 Packages Remain 149 Total 612
+[2020.03.16-00.43.18:807][141]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 466 Packages Remain 117 Total 583
+[2020.03.16-00.43.18:816][142]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 470 Packages Remain 86 Total 556
+[2020.03.16-00.43.18:824][143]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 472 Packages Remain 74 Total 546
+[2020.03.16-00.43.18:832][144]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 474 Packages Remain 72 Total 546
+[2020.03.16-00.43.18:832][144]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 475 Packages Remain 67 Total 542
+[2020.03.16-00.43.18:841][145]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 476 Packages Remain 60 Total 536
+[2020.03.16-00.43.18:841][145]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 477 Packages Remain 58 Total 535
+[2020.03.16-00.43.18:849][146]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 478 Packages Remain 56 Total 534
+[2020.03.16-00.43.18:849][146]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 479 Packages Remain 55 Total 534
+[2020.03.16-00.43.18:857][147]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 480 Packages Remain 54 Total 534
+[2020.03.16-00.43.18:857][147]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 481 Packages Remain 51 Total 532
+[2020.03.16-00.43.18:874][149]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 482 Packages Remain 49 Total 531
+[2020.03.16-00.43.18:882][150]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 483 Packages Remain 48 Total 531
+[2020.03.16-00.43.18:898][152]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 485 Packages Remain 47 Total 532
+[2020.03.16-00.43.18:907][153]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 486 Packages Remain 45 Total 531
+[2020.03.16-00.43.18:907][153]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 487 Packages Remain 44 Total 531
+[2020.03.16-00.43.18:957][159]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 488 Packages Remain 42 Total 530
+[2020.03.16-00.43.18:966][160]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 489 Packages Remain 40 Total 529
+[2020.03.16-00.43.18:974][161]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 490 Packages Remain 39 Total 529
+[2020.03.16-00.43.18:974][161]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cooked packages 490 Packages Remain 0 Total 490
+[2020.03.16-00.43.18:974][161]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2020.03.16-00.43.18:981][162]UATHelper: パッケージ化 (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2020.03.16-00.43.18:981][162]UATHelper: パッケージ化 (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2020.03.16-00.43.18:981][162]UATHelper: パッケージ化 (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2020.03.16-00.43.19:032][168]UATHelper: パッケージ化 (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2020.03.16-00.43.19:049][170]UATHelper: パッケージ化 (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 484, size is 218.61kb
+[2020.03.16-00.43.19:049][170]UATHelper: パッケージ化 (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2020.03.16-00.43.19:049][170]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 5.986475s total time 7.490252
+[2020.03.16-00.43.19:049][170]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Peak Used virtual 848MB Peak Used physical 789MB
+[2020.03.16-00.43.19:049][170]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2020.03.16-00.43.19:049][170]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2020.03.16-00.43.19:049][170]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:     StartCookByTheBookTime: 1.420s (1)
+[2020.03.16-00.43.19:049][170]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:       GenerateAssetRegistryTime: 0.127s (1)
+[2020.03.16-00.43.19:049][170]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:       CleanSandboxTime: 0.192s (1)
+[2020.03.16-00.43.19:049][170]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:         ProcessingAccessedStrings: 0.007s (1)
+[2020.03.16-00.43.19:049][170]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:       CollectFilesToCook: 0.343s (1)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:         CookModificationDelegate: 0.000s (1)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:       GenerateLongPackageName: 0.001s (1)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 5.969s (95)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:       LoadPackage: 0.999s (93)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.178s (95)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.000s (95)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:       SavingPackages: 4.786s (69)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.025s (502)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextNextPackage: 2.309s (490)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 2.417s (490)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:           LoadPackage: 0.001s (490)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 2.395s (490)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.004s (490)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.002s (484)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.011s (490)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:         EnqueueUnsavedPackages: 0.000s (9)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.003s (1)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.037s (1)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.005s (1)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.036s (1)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.011s (1)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.004s (1)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.020s (1)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.001s (1)
+[2020.03.16-00.43.19:057][171]UATHelper: パッケージ化 (Windows (64-bit)):   LogCook: Display: Done!
+[2020.03.16-00.43.19:075][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogSavePackage: Display: Took 0.009283s to verify the EDL loading graph.
+[2020.03.16-00.43.19:075][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2020.03.16-00.43.19:075][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2020.03.16-00.43.19:075][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2020.03.16-00.43.19:075][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000000
+[2020.03.16-00.43.19:075][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2020.03.16-00.43.19:075][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2020.03.16-00.43.19:075][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2020.03.16-00.43.19:075][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000130
+[2020.03.16-00.43.19:075][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2020.03.16-00.43.19:075][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.03.16-00.43.19:075][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2020.03.16-00.43.19:075][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.03.16-00.43.19:075][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2020.03.16-00.43.19:075][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.03.16-00.43.19:075][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2020.03.16-00.43.19:075][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=255
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=1.493286
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=490
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=2.338496
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.237427
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.086934
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersForSaveTimeSec=0.001784
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.003553
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000488
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.181416
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.170592
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.927433
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=522.224216
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=11.055843
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=3.544678
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=7.511152
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=1.420480
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000010
+[2020.03.16-00.43.19:076][173]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=6.068696
+[2020.03.16-00.43.19:082][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=1.001272
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=2.417088
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=2.510801
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.019388
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000041
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000013
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000023
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000004
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =      2225
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =      2225
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  1.000000
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.326742
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.673258
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.000000
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =       320
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =       320
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  1.000000
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display:
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             3.43                   0.00             0        397.76
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.88                   0.88             0         12.21
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.09                   0.09             0         71.45
+[2020.03.16-00.43.19:083][174]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.09                   0.09             0          5.70
+[2020.03.16-00.43.19:090][175]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.07                   0.07             0          8.34
+[2020.03.16-00.43.19:090][175]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: LandscapeCollision (Heightfield)                0.05                   0.05             0          7.04
+[2020.03.16-00.43.19:090][175]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.01                   0.01             0          5.49
+[2020.03.16-00.43.19:090][175]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.01                   0.01             0          0.15
+[2020.03.16-00.43.19:090][175]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          2.63
+[2020.03.16-00.43.19:090][175]UATHelper: パッケージ化 (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2020.03.16-00.43.19:090][175]UATHelper: パッケージ化 (Windows (64-bit)):   LogInit: Display:
+[2020.03.16-00.43.19:090][175]UATHelper: パッケージ化 (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2020.03.16-00.43.19:090][175]UATHelper: パッケージ化 (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2020.03.16-00.43.19:090][175]UATHelper: パッケージ化 (Windows (64-bit)):   LogInit: Display: CookResults: Warning: Unable to find package for cooking /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode
+[2020.03.16-00.43.19:090][175]UATHelper: パッケージ化 (Windows (64-bit)):   LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode
+[2020.03.16-00.43.19:090][175]UATHelper: パッケージ化 (Windows (64-bit)):   LogInit: Display:
+[2020.03.16-00.43.19:090][175]UATHelper: パッケージ化 (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 2 warning(s)
+[2020.03.16-00.43.19:090][175]UATHelper: パッケージ化 (Windows (64-bit)):   LogInit: Display:
+[2020.03.16-00.43.19:090][175]UATHelper: パッケージ化 (Windows (64-bit)):   
+[2020.03.16-00.43.19:090][175]UATHelper: パッケージ化 (Windows (64-bit)):   Execution of commandlet took:  7.53 seconds
+[2020.03.16-00.43.19:340][205]UATHelper: パッケージ化 (Windows (64-bit)):   LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.16-00.43.22:040][529]UATHelper: パッケージ化 (Windows (64-bit)): Took 14.0821755s to run UE4Editor-Cmd.exe, ExitCode=0
+[2020.03.16-00.43.22:050][530]UATHelper: パッケージ化 (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2020.03.16-00.43.22:050][530]UATHelper: パッケージ化 (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2020.03.16-00.43.22:123][539]UATHelper: パッケージ化 (Windows (64-bit)): Creating Staging Manifest...
+[2020.03.16-00.43.22:167][544]UATHelper: パッケージ化 (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\BaseEditor.ini
+[2020.03.16-00.43.22:167][544]UATHelper: ings.ini
+[2020.03.16-00.43.22:167][544]UATHelper: パッケージ化 (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2020.03.16-00.43.22:167][544]UATHelper: パッケージ化 (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\BaseEditorSettings.ini
+[2020.03.16-00.43.22:167][544]UATHelper: パッケージ化 (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\BaseLightmass.ini
+[2020.03.16-00.43.22:167][544]UATHelper: パッケージ化 (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\BasePakFileRules.ini
+[2020.03.16-00.43.22:167][544]UATHelper: パッケージ化 (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\Category.ini
+[2020.03.16-00.43.22:167][544]UATHelper: パッケージ化 (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\Editor.ini
+[2020.03.16-00.43.22:167][544]UATHelper: パッケージ化 (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\EditorTutorials.ini
+[2020.03.16-00.43.22:167][544]UATHelper: パッケージ化 (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\Engine.ini
+[2020.03.16-00.43.22:167][544]UATHelper: パッケージ化 (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\Keywords.ini
+[2020.03.16-00.43.22:167][544]UATHelper: パッケージ化 (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\PortableObjectExport.ini
+[2020.03.16-00.43.22:167][544]UATHelper: パッケージ化 (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\PortableObjectImport.ini
+[2020.03.16-00.43.22:167][544]UATHelper: パッケージ化 (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\PropertyNames.ini
+[2020.03.16-00.43.22:167][544]UATHelper: パッケージ化 (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\RepairData.ini
+[2020.03.16-00.43.22:167][544]UATHelper: パッケージ化 (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\ToolTips.ini
+[2020.03.16-00.43.22:167][544]UATHelper: パッケージ化 (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\WordCount.ini
+[2020.03.16-00.43.22:167][544]UATHelper: パッケージ化 (Windows (64-bit)): Excluding config file C:\Users\KIRA\Desktop\Test\Config\DefaultEditor.ini
+[2020.03.16-00.43.22:167][544]UATHelper: パッケージ化 (Windows (64-bit)): Excluding config file C:\Users\KIRA\Desktop\Test\Config\DefaultEditorPerProjectUserSettings.ini
+[2020.03.16-00.43.22:256][555]UATHelper: パッケージ化 (Windows (64-bit)): Cleaning Stage Directory: C:\Users\KIRA\Desktop\Test\Saved\StagedBuilds\WindowsNoEditor
+[2020.03.16-00.43.22:264][556]UATHelper: パッケージ化 (Windows (64-bit)): Creating pak using staging manifest.
+[2020.03.16-00.43.22:407][573]UATHelper: パッケージ化 (Windows (64-bit)): Executing 1 UnrealPak command...
+[2020.03.16-00.43.26:874][106]UATHelper: パッケージ化 (Windows (64-bit)): Waiting for child processes to complete (1/1)
+[2020.03.16-00.43.26:874][106]UATHelper: パッケージ化 (Windows (64-bit)): Output from: C:\Users\KIRA\Desktop\Test\Test.uproject C:\Users\KIRA\Desktop\Test\Saved\StagedBuilds\WindowsNoEditor\Test\Content\Paks\Test-WindowsNoEditor.pak -create="C:\Users\KIRA\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.24\PakList_Test-WindowsNoEditor.txt" -cryptokeys=C:\Users\KIRA\Desktop\Test\Saved\Cooked\WindowsNoEditor\Test\Metadata\Crypto.json -order=C:\Users\KIRA\Desktop\Test\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log -patchpaddingalign=2048 -compressionformats=  -multiprocess -abslog="C:\Users\KIRA\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.24\UnrealPak-Test-WindowsNoEditor-2020.03.16-09.43.22.txt"
+[2020.03.16-00.43.26:908][110]UATHelper: パッケージ化 (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2020.03.16-00.43.26:908][110]UATHelper: パッケージ化 (Windows (64-bit)):   LogCompression: Display: FCompression::GetCompressionFormat - Unable to find a module or plugin for compression format -multiprocess
+[2020.03.16-00.43.26:908][110]UATHelper: パッケージ化 (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\KIRA\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.24\PakList_Test-WindowsNoEditor.txt
+[2020.03.16-00.43.26:908][110]UATHelper: パッケージ化 (Windows (64-bit)):   LogPakFile: Display: Added 2143 entries to add to pak file.
+[2020.03.16-00.43.26:908][110]UATHelper: パッケージ化 (Windows (64-bit)):   LogPakFile: Display: Loading pak order file C:\Users\KIRA\Desktop\Test\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2020.03.16-00.43.26:908][110]UATHelper: パッケージ化 (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file C:\Users\KIRA\Desktop\Test\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2020.03.16-00.43.26:908][110]UATHelper: パッケージ化 (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2020.03.16-00.43.26:908][110]UATHelper: パッケージ化 (Windows (64-bit)):   LogPakFile: Display: Collected 2143 files in 0.01s.
+[2020.03.16-00.43.26:908][110]UATHelper: パッケージ化 (Windows (64-bit)):   LogPakFile: Display: Creating pak C:\Users\KIRA\Desktop\Test\Saved\StagedBuilds\WindowsNoEditor\Test\Content\Paks\Test-WindowsNoEditor.pak.
+[2020.03.16-00.43.26:908][110]UATHelper: パッケージ化 (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.16-00.43.26:908][110]UATHelper: パッケージ化 (Windows (64-bit)):   LogPakFile: Display: Added 2143 files, 566998199 bytes total, time 3.22s.
+[2020.03.16-00.43.26:908][110]UATHelper: パッケージ化 (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2020.03.16-00.43.26:908][110]UATHelper: パッケージ化 (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 3.354889 seconds
+[2020.03.16-00.43.26:908][110]UATHelper: パッケージ化 (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2020.03.16-00.43.27:066][129]UATHelper: パッケージ化 (Windows (64-bit)): Copying NonUFSFiles to staging directory: C:\Users\KIRA\Desktop\Test\Saved\StagedBuilds\WindowsNoEditor
+[2020.03.16-00.43.29:475][418]UATHelper: パッケージ化 (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2020.03.16-00.43.29:484][419]UATHelper: パッケージ化 (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2020.03.16-00.43.29:484][419]UATHelper: パッケージ化 (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2020.03.16-00.43.29:484][419]UATHelper: パッケージ化 (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2020.03.16-00.43.29:484][419]UATHelper: パッケージ化 (Windows (64-bit)): Archiving to C:/Users/KIRA/Desktop
+[2020.03.16-00.43.32:195][695]UATHelper: パッケージ化 (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2020.03.16-00.43.32:195][695]UATHelper: パッケージ化 (Windows (64-bit)): BUILD SUCCESSFUL
+[2020.03.16-00.43.32:195][695]UATHelper: パッケージ化 (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
